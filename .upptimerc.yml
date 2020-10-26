@@ -10,8 +10,8 @@ sites:
     url: https://roberto.mateu.me
   - name: Ana's Blog
     url: http://anitamarcela.com
-  - name: Secret Site
-    url: $SECRET_SITE
+#  - name: Secret Site
+#   url: $SECRET_SITE
 # notifications:
 #  - type: slack
 #    channel: C016QTU9S9Y
