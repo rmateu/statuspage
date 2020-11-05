@@ -3,9 +3,9 @@
     "name": "Blog",
     "url": "https://5typos.net",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 253
+    "time": 241
   },
   {
     "name": "Microblog",
