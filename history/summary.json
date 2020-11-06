@@ -3,15 +3,15 @@
     "name": "Blog",
     "url": "https://5typos.net",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 240
+    "time": 245
   },
   {
     "name": "Microblog",
     "url": "https://r.mateu.me",
     "slug": "microblog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 441
   },
