@@ -5,7 +5,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 289
+    "time": 294
   },
   {
     "name": "Microblog",
@@ -13,7 +13,7 @@
     "slug": "microblog",
     "status": "up",
     "uptime": "100.00",
-    "time": 450
+    "time": 454
   },
   {
     "name": "Microblog 2",
@@ -29,6 +29,6 @@
     "slug": "ana-s-blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 1071
+    "time": 1079
   }
 ]
