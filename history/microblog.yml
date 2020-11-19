@@ -1,7 +1,7 @@
 - url: https://r.mateu.me
-- status: up
+- status: down
 - code: 200
-- responseTime: 482
-- lastUpdated: 2020-11-18T23:07:52.542Z
+- responseTime: 578
+- lastUpdated: 2020-11-19T06:51:23.734Z
 - startTime: 2020-10-25T23:34:33.361Z
 - generator: Upptime <https://github.com/upptime/upptime>
