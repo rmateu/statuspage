@@ -3,32 +3,32 @@
     "name": "Blog",
     "url": "https://5typos.net",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 356
+    "time": 359
   },
   {
     "name": "Microblog",
     "url": "https://r.mateu.me",
     "slug": "microblog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 443
+    "time": 447
   },
   {
     "name": "Microblog 2",
     "url": "https://roberto.mateu.me",
     "slug": "microblog-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 429
+    "time": 433
   },
   {
     "name": "Ana's Blog",
     "url": "http://anitamarcela.com",
     "slug": "ana-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1043
+    "time": 1018
   }
 ]
