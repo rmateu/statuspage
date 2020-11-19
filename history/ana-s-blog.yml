@@ -1,7 +1,7 @@
 - url: http://anitamarcela.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 290
-- lastUpdated: 2020-11-19T06:51:27.500Z
+- responseTime: 326
+- lastUpdated: 2020-11-19T06:56:58.134Z
 - startTime: 2020-10-25T23:34:36.595Z
 - generator: Upptime <https://github.com/upptime/upptime>
