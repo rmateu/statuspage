@@ -4,31 +4,31 @@
     "url": "https://5typos.net",
     "slug": "blog",
     "status": "up",
-    "uptime": "100.00",
-    "time": 364
+    "uptime": "99.90%",
+    "time": 360
   },
   {
     "name": "Microblog",
     "url": "https://r.mateu.me",
     "slug": "microblog",
     "status": "up",
-    "uptime": "100.00",
-    "time": 459
+    "uptime": "99.90%",
+    "time": 461
   },
   {
     "name": "Microblog 2",
     "url": "https://roberto.mateu.me",
     "slug": "microblog-2",
     "status": "up",
-    "uptime": "100.00",
-    "time": 423
+    "uptime": "100.00%",
+    "time": 429
   },
   {
     "name": "Ana's Blog",
     "url": "http://anitamarcela.com",
     "slug": "ana-s-blog",
     "status": "up",
-    "uptime": "100.00",
-    "time": 998
+    "uptime": "100.00%",
+    "time": 1011
   }
 ]
