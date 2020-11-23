@@ -3,17 +3,17 @@
     "name": "Blog",
     "url": "https://5typos.net",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "time": 360
+    "time": 354
   },
   {
     "name": "Microblog",
     "url": "https://r.mateu.me",
     "slug": "microblog",
-    "status": "up",
-    "uptime": "99.90%",
-    "time": 461
+    "status": "down",
+    "uptime": "99.91%",
+    "time": 453
   },
   {
     "name": "Microblog 2",
@@ -21,7 +21,7 @@
     "slug": "microblog-2",
     "status": "up",
     "uptime": "100.00%",
-    "time": 429
+    "time": 425
   },
   {
     "name": "Ana's Blog",
@@ -29,6 +29,6 @@
     "slug": "ana-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1011
+    "time": 992
   }
 ]
