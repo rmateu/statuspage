@@ -5,14 +5,14 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.91%",
-    "time": 359
+    "time": 360
   },
   {
     "name": "Microblog",
     "url": "https://r.mateu.me",
     "slug": "microblog",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "time": 458
   },
   {
@@ -21,7 +21,7 @@
     "slug": "microblog-2",
     "status": "up",
     "uptime": "100.00%",
-    "time": 418
+    "time": 415
   },
   {
     "name": "Ana's Blog",
@@ -29,6 +29,6 @@
     "slug": "ana-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 984
+    "time": 965
   }
 ]
