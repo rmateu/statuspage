@@ -4,8 +4,8 @@
     "url": "https://5typos.net",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.91%",
-    "time": 360
+    "uptime": "99.92%",
+    "time": 362
   },
   {
     "name": "Microblog",
@@ -13,7 +13,7 @@
     "slug": "microblog",
     "status": "up",
     "uptime": "99.92%",
-    "time": 458
+    "time": 460
   },
   {
     "name": "Microblog 2",
@@ -21,7 +21,7 @@
     "slug": "microblog-2",
     "status": "up",
     "uptime": "100.00%",
-    "time": 415
+    "time": 416
   },
   {
     "name": "Ana's Blog",
@@ -29,6 +29,6 @@
     "slug": "ana-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 965
+    "time": 948
   }
 ]
