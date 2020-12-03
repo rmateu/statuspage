@@ -5,7 +5,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.93%",
-    "time": 361
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.93%",
+    "time": 427,
+    "timeDay": 359,
+    "timeWeek": 404,
+    "timeMonth": 455,
+    "timeYear": 427
   },
   {
     "name": "Microblog",
@@ -13,7 +21,15 @@
     "slug": "microblog",
     "status": "up",
     "uptime": "99.93%",
-    "time": 461
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.93%",
+    "time": 526,
+    "timeDay": 592,
+    "timeWeek": 547,
+    "timeMonth": 531,
+    "timeYear": 526
   },
   {
     "name": "Microblog 2",
@@ -21,7 +37,15 @@
     "slug": "microblog-2",
     "status": "up",
     "uptime": "99.94%",
-    "time": 399
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
+    "time": 430,
+    "timeDay": 642,
+    "timeWeek": 432,
+    "timeMonth": 425,
+    "timeYear": 430
   },
   {
     "name": "Ana's Blog",
@@ -29,6 +53,14 @@
     "slug": "ana-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 940
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 973,
+    "timeDay": 1474,
+    "timeWeek": 774,
+    "timeMonth": 900,
+    "timeYear": 973
   }
 ]
