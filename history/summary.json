@@ -4,9 +4,9 @@
     "url": "https://5typos.net",
     "icon": "https://favicons.githubusercontent.com/5typos.net",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 414,
     "timeYear": 428,
     "dailyMinutesDown": {
+      "2020-12-21": 0,
       "2020-12-03": 22,
       "2020-11-03": 40
     }
