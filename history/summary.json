@@ -45,9 +45,9 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://favicons.githubusercontent.com/roberto.mateu.me",
     "slug": "microblog-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -57,6 +57,7 @@
     "timeMonth": 376,
     "timeYear": 411,
     "dailyMinutesDown": {
+      "2021-02-07": 0,
       "2020-12-21": 36,
       "2020-11-28": 32
     }
