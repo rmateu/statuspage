@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 465,
-    "timeDay": 562,
-    "timeWeek": 450,
-    "timeMonth": 445,
-    "timeYear": 466,
+    "timeDay": 560,
+    "timeWeek": 443,
+    "timeMonth": 446,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2021-07-29": 25,
       "2021-07-15": 22,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 551,
-    "timeDay": 659,
-    "timeWeek": 558,
-    "timeMonth": 530,
+    "timeDay": 551,
+    "timeWeek": 531,
+    "timeMonth": 533,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2021-07-29": 24,
@@ -50,7 +50,7 @@
     "icon": "https://favicons.githubusercontent.com/roberto.mateu.me",
     "slug": "microblog-2",
     "status": "down",
-    "uptime": "22.15%",
+    "uptime": "22.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-11": 66,
+      "2022-02-12": 64,
+      "2022-02-11": 1440,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
@@ -424,8 +425,7 @@
       "2021-02-16": 1440,
       "2021-02-15": 1440,
       "2021-02-14": 1440,
-      "2021-02-13": 1440,
-      "2021-02-12": 1440
+      "2021-02-13": 1440
     }
   },
   {
@@ -439,11 +439,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 993,
-    "timeDay": 250,
-    "timeWeek": 435,
-    "timeMonth": 961,
-    "timeYear": 1000,
+    "time": 991,
+    "timeDay": 291,
+    "timeWeek": 438,
+    "timeMonth": 929,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2021-12-14": 16,
       "2021-04-29": 23
