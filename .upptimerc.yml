@@ -2,12 +2,14 @@ owner: rmateu
 repo: statuspage
 user-agent: rmateu
 sites:
-  - name: Blog
+  - name: 5typos.ne Blog
     url: https://5typos.net
-  - name: Microblog
+  - name: Blot Microblog
     url: https://r.mateu.me
-  - name: Microblog 2
+  - name: Micro.blog
     url: https://roberto.mateu.me
+  - name: Mastodon Node
+    url: https://node.mateu.me/about
   - name: Ana's Blog
     url: http://anitamarcela.com
 #  - name: Secret Site
@@ -19,7 +21,7 @@ assignees:
   - rmateu
 status-website:
   cname: status.mateu.me
-  logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://micro.blog/roberto/avatar.jpg
+  name: Mateu Status Dashboard
+  introTitle: "**Status** of my web properties, powered entirely by GitHub."
+  introMessage: Uses [Upptime](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
