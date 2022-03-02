@@ -58,18 +58,20 @@
     "url": "https://node.mateu.me/about",
     "icon": "https://favicons.githubusercontent.com/node.mateu.me",
     "slug": "mastodon-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 954,
     "timeDay": 954,
     "timeWeek": 954,
     "timeMonth": 954,
     "timeYear": 954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "Ana's Blog",
