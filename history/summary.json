@@ -58,19 +58,19 @@
     "url": "https://node.mateu.me/about",
     "icon": "https://favicons.githubusercontent.com/node.mateu.me",
     "slug": "mastodon-node",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1227,
-    "timeDay": 1133,
-    "timeWeek": 1227,
-    "timeMonth": 1227,
-    "timeYear": 1227,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
+    "time": 1336,
+    "timeDay": 1350,
+    "timeWeek": 1336,
+    "timeMonth": 1336,
+    "timeYear": 1336,
     "dailyMinutesDown": {
-      "2022-03-04": 0
+      "2022-03-04": 28
     }
   },
   {
