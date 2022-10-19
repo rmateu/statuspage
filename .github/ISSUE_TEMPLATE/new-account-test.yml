@@ -43,7 +43,7 @@ body:
       required: false
 
   - type: input
-    id: date
+    id: datestart
     attributes:
       label: Starting Date
       description: What's expected date for the accounts?
