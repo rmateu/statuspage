@@ -1,0 +1,116 @@
+name: New User Internal Systems Accounts Request
+description: File a bug report
+title: "[New User]: Internal Systems Accounts Request"
+labels: ["Access", "Priority 2"]
+assignees:
+  - kcarmona-pricesmart
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this Access Request Form!
+  - type: input
+    id: name
+    attributes:
+      label: Full Name
+      description: How can we get in touch with you if we need more info?
+      placeholder: Pedro Picapiedra
+    validations:
+      required: true
+  
+    - type: input
+    id: position
+    attributes:
+      label: Position
+      placeholder: Dev
+    validations:
+      required: false
+
+    - type: input
+    id: country
+    attributes:
+      label: Country
+      placeholder: Costa Rica
+    validations:
+      required: false
+
+    - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: PriceSmart, Encora, Centauro, Ixpantia, etc
+    validations:
+      required: false
+
+    - type: input
+    id: date
+    attributes:
+      label: Starting Date
+      placeholder: 2022-10-19
+    validations:
+      required: false
+
+    - type: input
+    id: requester
+    attributes:
+      label: Requested by
+      placeholder: Gerardo Delgado, Juan Biehl, etc
+    validations:
+      required: true
+
+
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+      options:
+        - 1.0.2 (Default)
+        - 1.0.3 (Edge)
+    validations:
+      required: true
+  - type: checkboxes
+    id: Systems
+    attributes:
+      label: What Systems does the person need access to?
+      multiple: true
+      options:
+        - VPN Developer
+        - VPN PCI
+        - Graylog
+        - Graylog PCI
+        - Grafana
+        - Rundeck (read-only)
+        - CMS
+        - Apple Dev
+        - PlayStore - Google
+        - Github PSMT
+        - Keycloak
+        - Segment
+        - Klaviyo
+        - Okta-preview
+        - Jenkins
+        - Wiki
+        - Kace
+        - Office 365
+        - Bloomreach
+        - New Relic
+        - IntelliJ 
+        - Gladly 
+  - type: textarea
+    id: systems-dev
+    attributes:
+      label: Dev/Staging Enviroments
+      description: List any of the above selected systems require Development/Staging Enviroments?
+      placeholder: - none
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
