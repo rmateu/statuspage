@@ -17,14 +17,51 @@ body:
       placeholder: Pedro Picapiedra
     validations:
       required: true
-  - type: input
+  
+    - type: input
     id: position
     attributes:
       label: Position
-      description: What's the person role/position?
-      placeholder: Developer/PM
+      description: What's the person role/position?      
+      placeholder: Dev
+
+    - type: input
+    id: country
+    attributes:
+      label: Country
+      description: What country is the Person based on?
+      placeholder: Costa Rica
+    validations:
+      required: false
+
+    - type: input
+    id: company
+    attributes:
+      label: Company
+      description: Which company does the person work for?
+      placeholder: PriceSmart, Encora, Centauro, Ixpantia, etc
+    validations:
+      required: false
+
+    - type: input
+    id: date
+    attributes:
+      label: Starting Date
+      description: What's expected date for the accounts?
+      placeholder: 2022-10-19
+    validations:
+      required: false
+
+    - type: input
+    id: requester
+    attributes:
+      label: Requested by
+      description: Who requests and approves this?
+      placeholder: Gerardo Delgado, Juan Biehl, etc
     validations:
       required: true
+
+
   - type: dropdown
     id: version
     attributes:
@@ -35,22 +72,43 @@ body:
         - 1.0.3 (Edge)
     validations:
       required: true
-  - type: dropdown
-    id: browsers
+  - type: checkboxes
+    id: Systems
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What Systems does the person need access to?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - VPN Developer
+        - VPN PCI
+        - Graylog
+        - Graylog PCI
+        - Grafana
+        - Rundeck (read-only)
+        - CMS
+        - Apple Dev
+        - PlayStore - Google
+        - Github PSMT
+        - Keycloak
+        - Segment
+        - Klaviyo
+        - Okta-preview
+        - Jenkins
+        - Wiki
+        - Kace
+        - Office 365
+        - Bloomreach
+        - New Relic
+        - IntelliJ 
+        - Gladly 
   - type: textarea
-    id: logs
+    id: systems-dev
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: Dev/Staging Enviroments
+      description: List any of the above selected systems require Development/Staging Enviroments?
+      placeholder: - none
+      value: "A bug happened!"
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
