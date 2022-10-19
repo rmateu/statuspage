@@ -17,14 +17,14 @@ body:
       placeholder: Pedro Picapiedra
     validations:
       required: true
-    - type: input
-      id: position
-      attributes:
-        label: Position
-        description: What's the person role/position?      
-        placeholder: Dev
-      validations:
-        required: false
+  - type: input
+    id: name2
+    attributes:
+      label: Full Name
+      description: Person First and Last Name
+      placeholder: Pedro Picapiedra
+    validations:
+      required: true
   - type: dropdown
     id: version
     attributes:
