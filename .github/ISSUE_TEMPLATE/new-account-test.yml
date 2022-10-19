@@ -43,11 +43,11 @@ body:
       required: false
 
   - type: input
-    id: datestart
+    id: date_start
     attributes:
       label: Starting Date
       description: What's expected date for the accounts?
-      placeholder: 2022-10-19
+      placeholder: "2022-10-19"
     validations:
       required: false
 
