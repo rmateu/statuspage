@@ -17,41 +17,41 @@ body:
       placeholder: Pedro Picapiedra
     validations:
       required: true
+  
   - type: input
-    id: name2
+    id: position
     attributes:
-      label: Full Name
-      description: Person First and Last Name
-      placeholder: Pedro Picapiedra
-    validations:
-      required: true
-    - type: input
+      label: Position
+      description: What's the person role/position?      
+      placeholder: Developer/PM/etc
+
+  - type: input
     id: country
     attributes:
       label: Country
       description: What country is the Person based on?
       placeholder: Costa Rica
     validations:
-      required: true
-
-    - type: input
+      required: false
+  - type: input
     id: company
     attributes:
       label: Company
       description: Which company does the person work for?
       placeholder: PriceSmart, Encora, Centauro, Ixpantia, etc
     validations:
-      required: true
-    - type: input
+      required: false
+
+  - type: input
     id: date
     attributes:
       label: Starting Date
       description: What's expected date for the accounts?
       placeholder: 2022-10-19
     validations:
-      required: true
+      required: false
 
-    - type: input
+  - type: input
     id: requester
     attributes:
       label: Requested by
@@ -60,17 +60,6 @@ body:
     validations:
       required: true
 
-
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-    validations:
-      required: true
   - type: checkboxes
     id: Systems
     attributes:
@@ -104,7 +93,7 @@ body:
     attributes:
       label: Dev/Staging Enviroments
       description: List any of the above selected systems require Development/Staging Enviroments?
-      placeholder: - none
+      placeholder: "- none"
       value: "A bug happened!"
     validations:
       required: true
