@@ -60,7 +60,7 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
+  - type: dropdown
     id: Systems
     attributes:
       label: What Systems does the person need access to?
