@@ -17,15 +17,15 @@ body:
       placeholder: Pedro Picapiedra
     validations:
       required: true
-  - type: textarea
-    id: what-happened
+  
+    - type: input
+    id: position
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Position
+      description: What's the person role/position?      
+      placeholder: Dev
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: version
     attributes:
