@@ -1,69 +1,31 @@
-name: "New User Internal Systems Accounts Request"
-description: "File a bug report"
-title: "[New User]: Internal Systems Accounts Request"
-labels: 
+name: Bug Report 2
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
 assignees:
-  - rmateu
+  - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        Please fill the below details to request a new User
-- type: input
-    id: name
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
     attributes:
-      label: Full Name
-      description: "How can we get in touch with you if we need more info?"
-      placeholder: "Pedro Picapiedra"
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
     validations:
       required: true
-  
-    - type: input
-    id: position
-    attributes:
-      label: Position
-      description: What's the person role/position?      
-      placeholder: Dev
-    validations:
-      required: false
-
-    - type: input
-    id: country
-    attributes:
-      label: Country
-      description: What country is the Person based on?
-      placeholder: Costa Rica
-    validations:
-      required: false
-
-    - type: input
-    id: company
-    attributes:
-      label: Company
-      description: Which company does the person work for?
-      placeholder: PriceSmart, Encora, Centauro, Ixpantia, etc
-    validations:
-      required: false
-
-    - type: input
-    id: date
-    attributes:
-      label: Starting Date
-      description: What's expected date for the accounts?
-      placeholder: 2022-10-19
-    validations:
-      required: false
-
-    - type: input
-    id: requester
-    attributes:
-      label: Requested by
-      description: Who requests and approves this?
-      placeholder: Gerardo Delgado, Juan Biehl, etc
-    validations:
-      required: true
-
-
   - type: dropdown
     id: version
     attributes:
@@ -74,43 +36,22 @@ body:
         - 1.0.3 (Edge)
     validations:
       required: true
-  - type: checkboxes
-    id: Systems
+  - type: dropdown
+    id: browsers
     attributes:
-      label: What Systems does the person need access to?
+      label: What browsers are you seeing the problem on?
       multiple: true
       options:
-        - VPN Developer
-        - VPN PCI
-        - Graylog
-        - Graylog PCI
-        - Grafana
-        - Rundeck (read-only)
-        - CMS
-        - Apple Dev
-        - PlayStore - Google
-        - Github PSMT
-        - Keycloak
-        - Segment
-        - Klaviyo
-        - Okta-preview
-        - Jenkins
-        - Wiki
-        - Kace
-        - Office 365
-        - Bloomreach
-        - New Relic
-        - IntelliJ 
-        - Gladly 
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
   - type: textarea
-    id: systems-dev
+    id: logs
     attributes:
-      label: Dev/Staging Enviroments
-      description: List any of the above selected systems require Development/Staging Enviroments?
-      placeholder: - none
-      value: "A bug happened!"
-    validations:
-      required: true
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
   - type: checkboxes
     id: terms
     attributes:
