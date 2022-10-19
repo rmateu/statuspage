@@ -18,13 +18,13 @@ body:
     validations:
       required: true
     - type: input
-    id: position
-    attributes:
-      label: Position
-      description: What's the person role/position?      
-      placeholder: Dev
-    validations:
-      required: false
+      id: position
+      attributes:
+        label: Position
+        description: What's the person role/position?      
+        placeholder: Dev
+      validations:
+        required: false
   - type: dropdown
     id: version
     attributes:
