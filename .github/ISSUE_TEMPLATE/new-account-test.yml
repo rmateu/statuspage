@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this Access Request Form!
+        Please fill the below details to request a new User:
   - type: input
     id: name
     attributes:
@@ -22,6 +22,7 @@ body:
     id: position
     attributes:
       label: Position
+      description: What's the person role/position?      
       placeholder: Dev
     validations:
       required: false
@@ -30,6 +31,7 @@ body:
     id: country
     attributes:
       label: Country
+      description: What country is the Person based on?
       placeholder: Costa Rica
     validations:
       required: false
@@ -38,6 +40,7 @@ body:
     id: company
     attributes:
       label: Company
+      description: Which company does the person work for?
       placeholder: PriceSmart, Encora, Centauro, Ixpantia, etc
     validations:
       required: false
@@ -46,6 +49,7 @@ body:
     id: date
     attributes:
       label: Starting Date
+      description: What's expected date for the accounts?
       placeholder: 2022-10-19
     validations:
       required: false
@@ -54,6 +58,7 @@ body:
     id: requester
     attributes:
       label: Requested by
+      description: Who requests and approves this?
       placeholder: Gerardo Delgado, Juan Biehl, etc
     validations:
       required: true
