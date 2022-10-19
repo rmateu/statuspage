@@ -34,7 +34,7 @@ body:
       description: What country is the Person based on?
       placeholder: Costa Rica
     validations:
-      required: false
+      required: true
 
     - type: input
     id: company
@@ -43,8 +43,7 @@ body:
       description: Which company does the person work for?
       placeholder: PriceSmart, Encora, Centauro, Ixpantia, etc
     validations:
-      required: false
-
+      required: true
     - type: input
     id: date
     attributes:
@@ -52,7 +51,7 @@ body:
       description: What's expected date for the accounts?
       placeholder: 2022-10-19
     validations:
-      required: false
+      required: true
 
     - type: input
     id: requester
