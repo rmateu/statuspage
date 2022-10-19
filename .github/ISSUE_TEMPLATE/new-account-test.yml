@@ -20,9 +20,9 @@ body:
   - type: input
     id: position
     attributes:
-      label: position
-      description: What's the Person Position/Role
-      placeholder: Developer/PM/ETC
+      label: Position
+      description: What's the person role/position?
+      placeholder: Developer/PM
     validations:
       required: true
       
