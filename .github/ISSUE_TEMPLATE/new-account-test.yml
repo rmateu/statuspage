@@ -8,15 +8,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Please fill the below details to request a new User
   - type: input
-    id: contact
+    id: name
     attributes:
-      label: Contact Details
+      label: Full Name
       description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      placeholder: Pedro Picapiedra
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
