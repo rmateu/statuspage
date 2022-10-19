@@ -18,11 +18,11 @@ body:
     validations:
       required: true
   - type: input
-    id: position
+    id: name2
     attributes:
-      label: Position
-      description: What's the person role/position?
-      placeholder: Developer/PM
+      label: Full Name
+      description: Person First and Last Name
+      placeholder: Pedro Picapiedra
     validations:
       required: true
       
