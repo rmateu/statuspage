@@ -3,7 +3,7 @@ description: File a bug report
 title: "[New User]: Internal Systems Accounts Request"
 labels: ["Access", "Priority 2"]
 assignees:
-  - octocat
+  - kcarmona-pricesmart
 body:
   - type: markdown
     attributes:
