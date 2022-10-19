@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please fill the below details to request a new User:
+        Please fill the below details to request a new user
   - type: input
     id: name
     attributes:
