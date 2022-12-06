@@ -6,9 +6,9 @@
     "slug": "5typos-ne-blog",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.53%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 547,
     "timeDay": 3840,
@@ -16,7 +16,7 @@
     "timeMonth": 1101,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2022-12-06": 93
+      "2022-12-06": 98
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-12-06": 644,
+      "2022-12-06": 649,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -312,19 +312,19 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "micro-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
-    "time": 495,
-    "timeDay": 2761,
-    "timeWeek": 959,
+    "time": 496,
+    "timeDay": 2141,
+    "timeWeek": 953,
     "timeMonth": 910,
-    "timeYear": 495,
+    "timeYear": 496,
     "dailyMinutesDown": {
-      "2022-12-06": 1,
+      "2022-12-06": 6,
       "2022-11-23": 21,
       "2022-11-22": 17,
       "2022-10-31": 188,
@@ -352,7 +352,7 @@
     "timeMonth": 0,
     "timeYear": 2073,
     "dailyMinutesDown": {
-      "2022-12-06": 644,
+      "2022-12-06": 649,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
