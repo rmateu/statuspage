@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/5typos.net.ico",
     "slug": "5typos-ne-blog",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "92.28%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.97%",
     "time": 547,
     "timeDay": 3840,
     "timeWeek": 1777,
     "timeMonth": 1101,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2022-12-06": 98
+      "2022-12-06": 111
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-12-06": 649,
+      "2022-12-06": 662,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -312,11 +312,11 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "micro-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.89%",
     "time": 496,
     "timeDay": 2141,
@@ -324,7 +324,7 @@
     "timeMonth": 910,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2022-12-06": 6,
+      "2022-12-06": 1,
       "2022-11-23": 21,
       "2022-11-22": 17,
       "2022-10-31": 188,
@@ -352,7 +352,7 @@
     "timeMonth": 0,
     "timeYear": 2073,
     "dailyMinutesDown": {
-      "2022-12-06": 649,
+      "2022-12-06": 662,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
