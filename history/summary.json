@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2023-01-25": 18,
+      "2023-01-25": 510,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -402,7 +402,7 @@
     "timeMonth": 0,
     "timeYear": 2073,
     "dailyMinutesDown": {
-      "2023-01-25": 18,
+      "2023-01-25": 510,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -736,18 +736,19 @@
     "url": "http://anitamarcela.com",
     "icon": "https://icons.duckduckgo.com/ip3/anitamarcela.com.ico",
     "slug": "ana-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 999,
+    "time": 998,
     "timeDay": 1266,
     "timeWeek": 1137,
     "timeMonth": 1399,
     "timeYear": 1005,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-09": 37
     }
   }
