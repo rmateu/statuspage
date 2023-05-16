@@ -4,10 +4,10 @@
     "url": "https://5typos.net",
     "icon": "https://icons.duckduckgo.com/ip3/5typos.net.ico",
     "slug": "5typos-ne-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 532,
@@ -16,6 +16,7 @@
     "timeMonth": 477,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2023-05-16": 1,
       "2022-12-06": 232
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-16": 17,
+      "2023-05-16": 1254,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
@@ -447,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-16": 17,
+      "2023-05-16": 1254,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
