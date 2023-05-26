@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-26": 17,
+      "2023-05-26": 965,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -408,9 +408,9 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "micro-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
@@ -420,6 +420,7 @@
     "timeMonth": 1044,
     "timeYear": 665,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-04-28": 27,
       "2022-12-06": 53,
       "2022-11-23": 21,
@@ -447,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-26": 17,
+      "2023-05-26": 965,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
