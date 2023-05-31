@@ -13,7 +13,7 @@
     "time": 530,
     "timeDay": 497,
     "timeWeek": 462,
-    "timeMonth": 483,
+    "timeMonth": 481,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2022-12-06": 232
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "blot-microblog",
     "status": "up",
-    "uptime": "2.67%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.00%",
+    "uptime": "2.68%",
+    "uptimeDay": "4.74%",
+    "uptimeWeek": "0.68%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.01%",
     "time": 534,
     "timeDay": 381,
     "timeWeek": 381,
@@ -399,8 +399,7 @@
       "2022-06-04": 1440,
       "2022-06-03": 1440,
       "2022-06-02": 1440,
-      "2022-06-01": 1440,
-      "2022-05-31": 1440
+      "2022-06-01": 1440
     }
   },
   {
@@ -410,14 +409,14 @@
     "slug": "micro-blog",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "72.65%",
+    "uptimeDay": "77.38%",
     "uptimeWeek": "95.27%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.83%",
     "time": 609,
     "timeDay": 167,
     "timeWeek": 354,
-    "timeMonth": 613,
+    "timeMonth": 608,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2023-05-30": 344,
@@ -441,7 +440,7 @@
     "uptime": "2.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2314,
     "timeDay": 0,
@@ -449,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-30": 1390,
+      "2023-05-31": 18,
+      "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
@@ -812,8 +812,7 @@
       "2022-06-04": 1440,
       "2022-06-03": 1440,
       "2022-06-02": 1440,
-      "2022-06-01": 1440,
-      "2022-05-31": 1440
+      "2022-06-01": 1440
     }
   },
   {
@@ -830,8 +829,8 @@
     "time": 998,
     "timeDay": 372,
     "timeWeek": 594,
-    "timeMonth": 803,
-    "timeYear": 995,
+    "timeMonth": 818,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2023-04-23": 85,
       "2023-04-19": 478,
