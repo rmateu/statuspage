@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 528,
-    "timeDay": 240,
-    "timeWeek": 471,
-    "timeMonth": 466,
-    "timeYear": 547,
+    "time": 529,
+    "timeDay": 540,
+    "timeWeek": 468,
+    "timeMonth": 470,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2022-12-06": 232
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "blot-microblog",
     "status": "up",
-    "uptime": "7.36%",
+    "uptime": "7.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.82%",
-    "uptimeYear": "6.31%",
-    "time": 622,
-    "timeDay": 261,
-    "timeWeek": 1589,
-    "timeMonth": 774,
-    "timeYear": 774,
+    "uptimeMonth": "77.11%",
+    "uptimeYear": "6.59%",
+    "time": 621,
+    "timeDay": 573,
+    "timeWeek": 1567,
+    "timeMonth": 769,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-06-13": 18,
       "2023-05-30": 1390,
@@ -376,8 +376,7 @@
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
-      "2022-06-25": 1440,
-      "2022-06-24": 1440
+      "2022-06-25": 1440
     }
   },
   {
@@ -386,15 +385,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "micro-blog",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.83%",
-    "time": 627,
-    "timeDay": 118,
-    "timeWeek": 237,
-    "timeMonth": 846,
+    "time": 626,
+    "timeDay": 63,
+    "timeWeek": 213,
+    "timeMonth": 836,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2023-06-13": 62,
@@ -426,7 +425,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-23": 22,
+      "2023-06-24": 22,
+      "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
@@ -789,8 +789,7 @@
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
-      "2022-06-25": 1440,
-      "2022-06-24": 1440
+      "2022-06-25": 1440
     }
   },
   {
@@ -800,15 +799,15 @@
     "slug": "ana-s-blog",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "96.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.82%",
     "time": 988,
-    "timeDay": 871,
-    "timeWeek": 704,
-    "timeMonth": 758,
-    "timeYear": 1007,
+    "timeDay": 1322,
+    "timeWeek": 831,
+    "timeMonth": 790,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2023-06-22": 53,
       "2023-04-23": 85,
