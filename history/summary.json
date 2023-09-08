@@ -4,19 +4,18 @@
     "url": "https://5typos.net",
     "icon": "https://icons.duckduckgo.com/ip3/5typos.net.ico",
     "slug": "5typos-ne-blog",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 544,
-    "timeDay": 581,
-    "timeWeek": 573,
-    "timeMonth": 735,
+    "timeDay": 623,
+    "timeWeek": 595,
+    "timeMonth": 737,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-09-07": 8,
       "2023-09-01": 30,
       "2023-08-03": 16,
       "2022-12-06": 232
@@ -28,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "blot-microblog",
     "status": "up",
-    "uptime": "20.15%",
+    "uptime": "20.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "27.30%",
+    "uptimeYear": "27.40%",
     "time": 542,
-    "timeDay": 482,
-    "timeWeek": 500,
-    "timeMonth": 443,
+    "timeDay": 628,
+    "timeWeek": 521,
+    "timeMonth": 447,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2023-09-01": 24,
@@ -304,8 +303,7 @@
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
-      "2022-09-09": 1440,
-      "2022-09-08": 1440
+      "2022-09-09": 1440
     }
   },
   {
@@ -319,10 +317,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 640,
-    "timeDay": 30,
-    "timeWeek": 795,
-    "timeMonth": 400,
+    "time": 639,
+    "timeDay": 67,
+    "timeWeek": 782,
+    "timeMonth": 396,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2023-06-13": 62,
@@ -353,7 +351,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-07": 914,
+      "2023-09-08": 15,
+      "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -716,8 +715,7 @@
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
-      "2022-09-09": 1440,
-      "2022-09-08": 1440
+      "2022-09-09": 1440
     }
   },
   {
@@ -732,10 +730,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 970,
-    "timeDay": 269,
-    "timeWeek": 945,
+    "timeDay": 1286,
+    "timeWeek": 943,
     "timeMonth": 904,
-    "timeYear": 992,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2023-07-13": 128,
       "2023-06-22": 53,
