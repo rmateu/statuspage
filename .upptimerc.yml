@@ -4,12 +4,10 @@ user-agent: rmateu
 sites:
   - name: 5typos.ne Blog
     url: https://5typos.net
-  - name: Blot Microblog
+  - name: Statuslog
     url: https://r.mateu.me
-  - name: Micro.blog
+  - name: Personal Page
     url: https://roberto.mateu.me
-  - name: Mastodon Node
-    url: https://node.mateu.me/about
   - name: Ana's Blog
     url: http://anitamarcela.com
 #  - name: Secret Site
