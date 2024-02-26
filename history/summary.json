@@ -4,7 +4,7 @@
     "url": "https://5typos.net",
     "icon": "https://icons.duckduckgo.com/ip3/5typos.net.ico",
     "slug": "5typos-ne-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 773,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2024-02-14": 16,
       "2023-12-08": 833,
       "2023-12-07": 445,
@@ -50,19 +51,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "personal-page",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1807,
     "timeDay": 2953,
     "timeWeek": 1807,
     "timeMonth": 1807,
     "timeYear": 1807,
-    "dailyMinutesDown": {
-      "2024-02-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ana's Blog",
