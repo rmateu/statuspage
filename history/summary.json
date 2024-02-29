@@ -31,18 +31,20 @@
     "url": "https://r.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 399,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
-    "dailyMinutesDown": {}
+    "time": 468,
+    "timeDay": 518,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Personal Page",
