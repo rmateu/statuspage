@@ -12,7 +12,7 @@
     "uptimeYear": "99.72%",
     "time": 596,
     "timeDay": 388,
-    "timeWeek": 445,
+    "timeWeek": 419,
     "timeMonth": 763,
     "timeYear": 570,
     "dailyMinutesDown": {
@@ -31,18 +31,20 @@
     "url": "https://r.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 330,
-    "timeWeek": 454,
-    "timeMonth": 454,
-    "timeYear": 454,
-    "dailyMinutesDown": {}
+    "time": 477,
+    "timeDay": 531,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   },
   {
     "name": "Personal Page",
@@ -57,7 +59,7 @@
     "uptimeYear": "100.00%",
     "time": 990,
     "timeDay": 155,
-    "timeWeek": 990,
+    "timeWeek": 1092,
     "timeMonth": 990,
     "timeYear": 990,
     "dailyMinutesDown": {}
@@ -72,12 +74,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.82%",
     "time": 890,
     "timeDay": 372,
-    "timeWeek": 389,
+    "timeWeek": 428,
     "timeMonth": 338,
-    "timeYear": 818,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2023-07-13": 128,
       "2023-06-22": 53,
