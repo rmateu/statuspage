@@ -6,9 +6,9 @@
     "slug": "5typos-ne-blog",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.72%",
     "time": 597,
     "timeDay": 583,
@@ -16,7 +16,6 @@
     "timeMonth": 750,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-03-07": 5,
       "2024-02-14": 16,
       "2023-12-08": 833,
       "2023-12-07": 445,
@@ -32,9 +31,9 @@
     "url": "https://r.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -43,7 +42,9 @@
     "timeWeek": 518,
     "timeMonth": 495,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "Personal Page",
