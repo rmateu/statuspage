@@ -31,19 +31,19 @@
     "url": "https://r.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 490,
-    "timeDay": 465,
-    "timeWeek": 507,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 497,
+    "timeDay": 507,
+    "timeWeek": 518,
+    "timeMonth": 497,
+    "timeYear": 497,
     "dailyMinutesDown": {
-      "2024-03-08": 6
+      "2024-03-08": 0
     }
   },
   {
