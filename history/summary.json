@@ -52,18 +52,20 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "personal-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 101,
-    "timeWeek": 1199,
-    "timeMonth": 813,
-    "timeYear": 813,
-    "dailyMinutesDown": {}
+    "time": 1083,
+    "timeDay": 4235,
+    "timeWeek": 1916,
+    "timeMonth": 1083,
+    "timeYear": 1083,
+    "dailyMinutesDown": {
+      "2024-03-17": 0
+    }
   },
   {
     "name": "Ana's Blog",
