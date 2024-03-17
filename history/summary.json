@@ -52,19 +52,19 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "personal-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 4235,
-    "timeWeek": 1916,
-    "timeMonth": 1083,
-    "timeYear": 1083,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1067,
+    "timeDay": 3028,
+    "timeWeek": 1798,
+    "timeMonth": 1067,
+    "timeYear": 1067,
     "dailyMinutesDown": {
-      "2024-03-17": 0
+      "2024-03-17": 8
     }
   },
   {
