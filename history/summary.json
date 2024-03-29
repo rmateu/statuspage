@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 596,
-    "timeDay": 288,
-    "timeWeek": 588,
-    "timeMonth": 483,
-    "timeYear": 572,
+    "timeDay": 275,
+    "timeWeek": 558,
+    "timeMonth": 481,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2024-02-14": 16,
       "2023-12-08": 833,
@@ -32,18 +32,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.72%",
-    "time": 555,
-    "timeDay": 609,
-    "timeWeek": 612,
-    "timeMonth": 562,
-    "timeYear": 555,
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.73%",
+    "time": 553,
+    "timeDay": 606,
+    "timeWeek": 604,
+    "timeMonth": 561,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-03-28": 6,
       "2024-03-25": 20,
       "2024-03-11": 51,
       "2024-03-10": 57
@@ -60,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 203,
-    "timeWeek": 136,
-    "timeMonth": 703,
-    "timeYear": 816,
+    "time": 799,
+    "timeDay": 110,
+    "timeWeek": 121,
+    "timeMonth": 702,
+    "timeYear": 799,
     "dailyMinutesDown": {}
   },
   {
@@ -78,9 +77,9 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
-    "time": 864,
-    "timeDay": 259,
-    "timeWeek": 316,
+    "time": 862,
+    "timeDay": 251,
+    "timeWeek": 328,
     "timeMonth": 488,
     "timeYear": 773,
     "dailyMinutesDown": {
@@ -88,8 +87,7 @@
       "2023-07-13": 128,
       "2023-06-22": 53,
       "2023-04-23": 85,
-      "2023-04-19": 478,
-      "2023-03-30": 196
+      "2023-04-19": 478
     }
   }
 ]
