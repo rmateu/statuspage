@@ -4,7 +4,7 @@
     "url": "https://5typos.net",
     "icon": "https://icons.duckduckgo.com/ip3/5typos.net.ico",
     "slug": "5typos-ne-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
@@ -16,6 +16,7 @@
     "timeMonth": 483,
     "timeYear": 576,
     "dailyMinutesDown": {
+      "2024-05-10": 0,
       "2024-05-05": 35,
       "2024-05-01": 432,
       "2024-02-14": 16,
