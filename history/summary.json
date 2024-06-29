@@ -63,9 +63,9 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "personal-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 251,
     "timeMonth": 238,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-29": 0
+    }
   },
   {
     "name": "Ana's Blog",
