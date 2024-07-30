@@ -4,7 +4,7 @@
     "url": "https://5typos.net",
     "icon": "https://icons.duckduckgo.com/ip3/5typos.net.ico",
     "slug": "5typos-ne-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.46%",
@@ -16,6 +16,7 @@
     "timeMonth": 701,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-07-26": 256,
       "2024-07-07": 17,
       "2024-06-27": 46,
@@ -46,7 +47,7 @@
     "time": 672,
     "timeDay": 382,
     "timeWeek": 466,
-    "timeMonth": 1091,
+    "timeMonth": 1061,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2024-06-15": 295,
