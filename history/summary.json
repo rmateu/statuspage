@@ -84,19 +84,19 @@
     "url": "http://anitamarcela.com",
     "icon": "https://icons.duckduckgo.com/ip3/anitamarcela.com.ico",
     "slug": "ana-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 108,
-    "timeWeek": 510,
-    "timeMonth": 444,
+    "time": 633,
+    "timeDay": 186,
+    "timeWeek": 480,
+    "timeMonth": 438,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2024-08-29": 0,
+      "2024-08-29": 5,
       "2024-03-27": 16
     }
   }
