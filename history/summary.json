@@ -12,7 +12,7 @@
     "uptimeYear": "99.75%",
     "time": 597,
     "timeDay": 512,
-    "timeWeek": 3161,
+    "timeWeek": 2121,
     "timeMonth": 1259,
     "timeYear": 604,
     "dailyMinutesDown": {
@@ -43,7 +43,7 @@
     "uptimeYear": "99.71%",
     "time": 822,
     "timeDay": 696,
-    "timeWeek": 870,
+    "timeWeek": 643,
     "timeMonth": 643,
     "timeYear": 879,
     "dailyMinutesDown": {
@@ -71,9 +71,9 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "personal-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +82,9 @@
     "timeWeek": 448,
     "timeMonth": 407,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-27": 0
+    }
   },
   {
     "name": "Ana's Blog",
