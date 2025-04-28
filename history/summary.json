@@ -73,9 +73,9 @@
     "slug": "personal-page",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 271,
@@ -83,7 +83,7 @@
     "timeMonth": 387,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 9
     }
   },
   {
