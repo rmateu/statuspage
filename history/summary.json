@@ -6,8 +6,8 @@
     "slug": "5typos-ne-blog",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
     "time": 665,
@@ -16,7 +16,6 @@
     "timeMonth": 1949,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-05-23": 2,
       "2025-05-10": 17,
       "2025-03-09": 31,
       "2024-09-19": 77,
