@@ -38,7 +38,7 @@
     "timeDay": 728,
     "timeWeek": 979,
     "timeMonth": 1042,
-    "timeYear": 876,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2026-01-08": 24,
       "2025-12-31": 23,
@@ -78,9 +78,9 @@
     "url": "http://anitamarcela.com",
     "icon": "https://icons.duckduckgo.com/ip3/anitamarcela.com.ico",
     "slug": "ana-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.26%",
@@ -90,6 +90,7 @@
     "timeMonth": 441,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2026-01-23": 0,
       "2025-11-21": 35,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
