@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "56.75%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.63%",
+    "uptimeDay": "50.14%",
+    "uptimeWeek": "92.88%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.47%",
     "time": 749,
     "timeDay": 420,
     "timeWeek": 503,
@@ -61,7 +61,7 @@
       "2026-04-30": 22,
       "2026-05-16": 18,
       "2026-07-27": 624,
-      "2026-07-28": 0
+      "2026-07-28": 95
     }
   },
   {
