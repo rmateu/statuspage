@@ -14,7 +14,7 @@
     "timeDay": 513,
     "timeWeek": 461,
     "timeMonth": 414,
-    "timeYear": 465,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-12-24": 60,
       "2026-05-18": 92,
@@ -28,13 +28,13 @@
     "url": "https://r.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "66.47%",
-    "uptimeWeek": "70.47%",
+    "uptimeDay": "76.23%",
+    "uptimeWeek": "70.46%",
     "uptimeMonth": "93.20%",
     "uptimeYear": "98.80%",
-    "time": 741,
+    "time": 742,
     "timeDay": 337,
     "timeWeek": 596,
     "timeMonth": 547,
@@ -64,7 +64,8 @@
       "2026-09-28": 1412,
       "2026-09-27": 1083,
       "2026-10-03": 344,
-      "2026-10-02": 139
+      "2026-10-02": 139,
+      "2026-10-04": 0
     }
   },
   {
@@ -82,7 +83,7 @@
     "timeDay": 301,
     "timeWeek": 341,
     "timeMonth": 439,
-    "timeYear": 433,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2025-12-07": 15,
       "2025-12-24": 47,
@@ -104,7 +105,7 @@
     "timeDay": 261,
     "timeWeek": 224,
     "timeMonth": 217,
-    "timeYear": 522,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2025-11-02": 990,
       "2025-11-01": 1440,
