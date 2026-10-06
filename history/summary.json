@@ -30,7 +30,7 @@
     "slug": "statuslog",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "21.81%",
     "uptimeWeek": "70.26%",
     "uptimeMonth": "87.46%",
     "uptimeYear": "98.32%",
@@ -75,9 +75,9 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "personal-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -89,7 +89,8 @@
     "dailyMinutesDown": {
       "2025-12-07": 15,
       "2025-12-24": 47,
-      "2026-02-15": 128
+      "2026-02-15": 128,
+      "2026-10-06": 0
     }
   },
   {
