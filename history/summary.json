@@ -14,7 +14,7 @@
     "timeDay": 483,
     "timeWeek": 440,
     "timeMonth": 411,
-    "timeYear": 466,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-12-24": 60,
       "2026-05-18": 92,
@@ -30,7 +30,7 @@
     "slug": "statuslog",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "21.81%",
+    "uptimeDay": "36.52%",
     "uptimeWeek": "70.26%",
     "uptimeMonth": "87.46%",
     "uptimeYear": "98.32%",
@@ -38,7 +38,7 @@
     "timeDay": 489,
     "timeWeek": 549,
     "timeMonth": 545,
-    "timeYear": 766,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2025-10-24": 15,
       "2025-12-24": 66,
@@ -75,22 +75,22 @@
     "url": "https://roberto.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/roberto.mateu.me.ico",
     "slug": "personal-page",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.92%",
     "time": 426,
-    "timeDay": 321,
-    "timeWeek": 320,
-    "timeMonth": 425,
+    "timeDay": 308,
+    "timeWeek": 317,
+    "timeMonth": 421,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2025-12-07": 15,
       "2025-12-24": 47,
       "2026-02-15": 128,
-      "2026-10-06": 0
+      "2026-10-06": 212
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeDay": 169,
     "timeWeek": 220,
     "timeMonth": 209,
-    "timeYear": 522,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2025-11-02": 990,
       "2025-11-01": 1440,
