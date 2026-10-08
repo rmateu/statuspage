@@ -28,9 +28,9 @@
     "url": "https://r.mateu.me",
     "icon": "https://icons.duckduckgo.com/ip3/r.mateu.me.ico",
     "slug": "statuslog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "71.48%",
+    "uptimeDay": "71.47%",
     "uptimeWeek": "65.98%",
     "uptimeMonth": "86.48%",
     "uptimeYear": "98.23%",
@@ -68,7 +68,8 @@
       "2026-10-04": 536,
       "2026-10-05": 1109,
       "2026-10-06": 869,
-      "2026-10-07": 432
+      "2026-10-07": 432,
+      "2026-10-08": 0
     }
   },
   {
